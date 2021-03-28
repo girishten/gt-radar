@@ -1,0 +1,25 @@
+{
+  "name": "gt-radar",
+  "version": "1.0.0-alpha1",
+  "description": "Tech radar like graph with out sector constrains",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girishten/gt-radar.git"
+  },
+  "keywords": [
+    "d3",
+    "tech",
+    "radar",
+    "dynamic"
+  ],
+  "author": "Girish S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girishten/gt-radar/issues"
+  },
+  "homepage": "https://github.com/girishten/gt-radar#readme"
+}
